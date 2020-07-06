@@ -1,0 +1,28 @@
+
+.header{
+    border-bottom: solid;
+    border-color: black;
+    display: inline;
+    
+}
+.nav.justify-content-end{
+    background-color: white;
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+
+ul h1{ 
+    background-color: teal;
+    float: left;
+    font-size: 30px;
+    margin-right: 65%;
+    color: white;
+ }
+
+.nav-item{
+    display: inline-block;
+}
+
