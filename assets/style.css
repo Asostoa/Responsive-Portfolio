@@ -1,4 +1,6 @@
-
+.brand{
+  width: 200px;
+}
 .nav-link{
   font-family:'Oswald', sans-serif; 
     font-size: 25px;
@@ -12,6 +14,7 @@ ul.navbar-nav{
     margin-left: 80%;
     width: 100%;
 }
+
 
 .d-block.w-100 {
     opacity: 0.3;
@@ -128,6 +131,9 @@ ul.navbar-nav{
   transform: translate3d(0, 0, 0);
 }
 /*bontons on the contact page */
+.contact-form{
+  padding-bottom: 30px;
+}
 .form-group{font-family:'Oswald', sans-serif; 
   font-size: 25px;}
 
