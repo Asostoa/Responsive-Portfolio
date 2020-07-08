@@ -1,20 +1,23 @@
+/*nav bar*/
+
 .brand{
   width: 200px;
 }
+
+/*fonts of the navbar*/
+
 .nav-link{
   font-family:'Oswald', sans-serif; 
     font-size: 25px;
 }
-
+ 
 .navbar.navbar-expand-lg.navbar-light.bg-light{
    position: static;
 }
 
-ul.navbar-nav{
-    margin-left: 80%;
-    width: 100%;
+.navbar-nav{
+  margin-left: 70%;
 }
-
 
 .d-block.w-100 {
     opacity: 0.3;
@@ -30,16 +33,13 @@ ul.navbar-nav{
 }
 
 .font-weight-normal{
+  padding-right: 30px;
     font-family: 'Oswald', sans-serif;
     font-size: 25px;
     text-align: center;
-    word-spacing: normal;
+    }
 
-
-}
-
-
-/* Portfolio */
+/* Portfolio cards */
 .portfolio-grid figure {
   position: relative;
   float: left;
@@ -141,7 +141,6 @@ ul.navbar-nav{
     font-family:'Oswald', sans-serif; 
     font-size: 25px;
 }
-
 .btn.btn-secondary.btn-send{
     
     color: rgb( 47, 150,150);
@@ -150,7 +149,6 @@ ul.navbar-nav{
     font-size: 25px;
 
 }
-
 .text-muted{
   font-family:'Oswald', sans-serif; 
   font-size: 25px;
@@ -158,6 +156,8 @@ ul.navbar-nav{
 #contact-form{
     padding: 25px;
 }
+
+/*in here we modified the footer element*/
 .footer {
     position: fixed;
     left: 0;
@@ -166,7 +166,6 @@ ul.navbar-nav{
     background-color:rgb( 47, 150,150);
     color: grey darkgray;
     text-align: center;
-    padding: 5px;
     font-family:'Oswald', serif;
  }
 

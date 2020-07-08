@@ -1,18 +1,25 @@
 # homework2
-homework2
-7/2/20
-*Star my bio page using bootstrap
-*I added the templates from getbootstrap for the navbar, jumbotron and use a carusel for the background pics
-*Creaste a logo put it on the left side of the nav bar
+Project description
+In here you will find my lastest homework for University of Miami full stack boot camp. I star aplying bootstrap templates. At the same time we arange the page using the grid and make it ractive too.
+At the index you will find my Bio and a link to my portafolio. 
+In the portafolio you will find my latest projects.
+I also introduce a contact webpage where you can contact me on a direct way. The goal of this site is to create a reactive website of my bio.
 
-7/3/20
-*I add the google font oswald
-*I create a .css file where i play the location and looks of the page.
-*I create two other files and linkthem to the index.html. (file names are contact.html portafolio.html
-*On the portafolio page I use a boostrap found in https://www.bootdey.com/snippets/view/bs4-simple-portfolio
-*I modified the colums and content of the portafolio cards
+Builtwith
+*boostrap
+*visualcode
+
+Contribution
+
+https://getbootsrap.com
+
+Authors
+-Alexander de Sostoa- initial work - university of miami
+
+Acknowledgments
+
+*I will like to thank https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form for the form template wich i used in the contact page.
+
+*Also a tip hat to https://www.bootdey.com/ for the templates for the cards of my portafolio
 
 
-7/4/20
-*I add a footer to the all pages
-*I add a form for contact I used the model used in https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form
