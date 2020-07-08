@@ -40,6 +40,10 @@
     }
 
 /* Portfolio cards */
+.row.portfolio-grid{
+  padding-top: 50px;
+}
+
 .portfolio-grid figure {
   position: relative;
   float: left;
