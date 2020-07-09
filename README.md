@@ -1,4 +1,5 @@
-# homework2
+# Homework2
+
 Project description
 In here you will find my lastest homework for University of Miami full stack boot camp. I star aplying bootstrap templates. At the same time we arange the page using the grid and make it ractive too.
 At the index you will find my Bio and a link to my portafolio. 
